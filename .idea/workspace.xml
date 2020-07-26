@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="56a200e9-5140-4e20-91fc-7653bb2e64f5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,17 +35,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -56,8 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595679503045</updated>
-      <workItem from="1595679519667" duration="3320000" />
-      <workItem from="1595765272533" duration="851000" />
+      <workItem from="1595679519667" duration="912000" />
     </task>
     <servers />
   </component>
@@ -69,9 +63,5 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="196" y="98" key="#Project_Structure/0.0.1920.1044@0.0.1920.1044" timestamp="1595679523950" />
-    <state x="172" y="243" width="1007" height="733" key="SettingsEditor" timestamp="1595765354747">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state x="172" y="243" width="1007" height="733" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1595765354747" />
   </component>
 </project>

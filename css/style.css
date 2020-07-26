@@ -1,0 +1,80 @@
+:root {
+    --user-card-margin: 0px 0;
+}
+
+html {
+    font-size: 16px; /* Сюда ссылается rem */
+}
+
+body {
+    background-color: dodgerblue;
+    font-family: 'Open Sans', sans-serif;
+
+
+    display: flex;
+    justify-content: center;
+
+    flex-wrap: wrap;
+
+}
+
+.userCardContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    text-align: center;
+    /*padding: 0px 10px;*/
+    margin: 115px auto;
+    box-sizing: border-box;
+
+    background-color: white;
+    max-width: 300px;
+    /*border-radius: 10px;*/
+    line-height: 1.5;
+
+    /*box-shadow: 0px 0px 32px -8px rgba(0,0,0,0.75);*/
+}
+
+.userCardPhotoContainer{
+
+    /*position: relative;*/
+}
+
+.userPhoto {
+    margin: var(--user-card-margin);
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-top: -55px;
+    object-fit: cover;
+}
+
+.userLogin > h2 {
+    font-size: 2rem;
+    font-weight: lighter;
+    color: black;
+}
+
+.userAuthorizationForm{
+    display: flex;
+    flex-direction: column;
+    min-height: 80px;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.recovery{
+    margin-top: 5px;
+    border-top: 2px solid dimgrey;
+    padding-bottom: 6px;
+
+    background-color: aliceblue;
+}
+
+.recovery > a{
+    font-size: 10px;
+    text-decoration: none;
+
+    background-color: aliceblue;
+}
